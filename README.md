@@ -15,6 +15,7 @@ Slack sidebar theme based on [Electron Highlighter Syntax](http://github.com/mmc
   ```
 
   If you don't see that input, there will be a link you can click to add a custom theme. Clicking that will make the input box appear.
+
 5. Profit
 
 ## License
