@@ -1,3 +1,6 @@
+⚠️ This repository is being archived, as Slack rolled out a new UI and you can no longer choose whatever colors you want.
+
+
 Electron Highlighter Slack
 ==========================
 
